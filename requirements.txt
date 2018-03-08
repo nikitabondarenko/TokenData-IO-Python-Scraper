@@ -1,0 +1,12 @@
+certifi
+chardet
+cycler
+DateTime==4.2
+matplotlib
+numpy
+pandas
+pyparsing
+python-dateutil
+pytz
+zope.interface
+webdriver
