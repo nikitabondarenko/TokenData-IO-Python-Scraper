@@ -9,4 +9,4 @@ pyparsing
 python-dateutil
 pytz
 zope.interface
-webdriver
+selenium
